@@ -2,9 +2,12 @@ Beadandó projektmunka a Webalkalmazás fejlesztés projektmunkában tárgyra.
 WEBSHOP API
 
 Csapat:
-Csapatvezető: Ignéczi István - GULQNO. 
+
+Csapatvezető: Ignéczi István - GULQNO.
 Elvégzett feladatok: Keresés, Termékek.
-Csapattagok: 
+
+Csapattagok:
+
 -Balogh Zsófia - JOKVN4. 
 Elvégzett feladatok: Kezdőoldal, Regisztráció, (navigációs sáv).
 
